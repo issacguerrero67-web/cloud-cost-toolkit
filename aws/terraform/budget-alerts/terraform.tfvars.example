@@ -1,0 +1,9 @@
+account_name          = "my-startup-prod"
+monthly_budget_amount = 500
+alert_email           = "team@mycompany.com"
+
+# Optional
+# alert_thresholds  = [50, 80, 100, 120]
+# services          = ["Amazon EC2", "Amazon RDS"]
+# cost_center_tag   = "backend"
+# slack_webhook_url = "https://hooks.slack.com/services/YOUR/WEBHOOK/URL"
