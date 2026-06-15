@@ -89,7 +89,8 @@ I offer **AI-assisted AWS cost audits** delivered in 24–48 hours:
 - Terraform modules configured for your environment
 
 **Starting at $300 per audit.**
-?? Contact: issacguerrero67@gmail.com
+?? Book your audit: https://bit.ly/aws-cost-audit
+?? Direct email: issacguerrero67@gmail.com
 
 ---
 
