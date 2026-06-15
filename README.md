@@ -1,6 +1,6 @@
 # Cloud Cost Toolkit
 
-> Practitioner-built cost optimization templates, checklists, and Terraform modules for AWS. Built by a working cloud infrastructure enginee
+> Practitioner-built cost optimization templates, checklists, and Terraform modules for AWS. Built by a working cloud infrastructure engineer
 
 ---
 
