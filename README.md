@@ -18,9 +18,9 @@
 ### Terraform Modules
 
 
-| Module                         | What It Does                                                                     |
-| ------------------------------ | -------------------------------------------------------------------------------- |
-| `aws/terraform/budget-alerts/` | Monthly budget with SNS email alerts at 50/80/100/120% � deployable in 5 minutes |
+| Module                         | What It Does                                                                   |
+| ------------------------------ | ------------------------------------------------------------------------------ |
+| `aws/terraform/budget-alerts/` | Monthly budget with SNS email alerts at 50/80/100/120% deployable in 5 minutes |
 
 
 ### Report Templates
